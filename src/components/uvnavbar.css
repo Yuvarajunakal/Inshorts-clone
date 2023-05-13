@@ -1,0 +1,22 @@
+/* body{
+    margin: 0;
+} */
+.nav {
+  height: 70px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  display: flex;
+  align-items: center;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+}
+
+.inshortsicon {
+  height: 90%;
+  cursor: pointer;
+}
+.icon {
+  flex: 0.5;
+  color: black;
+}
